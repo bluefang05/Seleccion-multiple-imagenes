@@ -1,5 +1,4 @@
 # Seleccion-multiple-imagenes
-es un ejercicio de seleccion multiple basado en imagenes
 
 Es un ejercicio de seleccion multiple basado en imagenes
 
