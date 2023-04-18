@@ -35,7 +35,7 @@ Si deseas contribuir al proyecto, puedes seguir los pasos a continuación:
 
 ## Créditos
 
-Este proyecto fue creado por Enmanuel Domínguez como parte de [Nombre del curso, proyecto personal, etc.] y se encuentra bajo la Licencia Creative Commons Zero (CC0).
+Este proyecto fue creado por Enmanuel Domínguez como parte de una serie de herramientas para la comunidad de aspierd y se encuentra bajo la Licencia Creative Commons Zero (CC0).
 
 ## Licencia
 
